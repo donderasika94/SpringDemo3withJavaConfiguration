@@ -1,0 +1,2 @@
+SpringDemo2WithJavaConfiguration
+This folder contains rendereer and provider example with Java Configuration
